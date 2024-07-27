@@ -53,6 +53,7 @@ For Unsupervised Model:
 ```bash
 python Phase2/Code/Train_Unsuper.py --BasePath=<path_to_data> --CheckPointPath=<path_to_checkpoint> --LogsPath=<path_to_logs> --NumEpochs=<number_of_epochs> --MiniBatchSize=<batch_size> --DivTrain=<div_train_factor> --LoadCheckPoint=<load_checkpoint_flag>
 ```
+
 ... __Arguments__
 ..* --BasePath: Base path of images (default: ../Data)
 ..* --CheckPointPath: Path to save checkpoints (default: Phase2/Code/Checkpoints/)
@@ -73,6 +74,7 @@ For Unsupervised Model:
 ```bash
 python Phase2/Code/Test_Unsuper.py --ModelPath 'Phase2/Code/CheckpointsUnsuper/19model.ckpt' --BasePath Phase2/Data/Test_synthetic/ --LabelsPath 'Phase2/Code/TxtFiles/LabelsTest.txt'
 ```
+
 ... __Arguments__
 ..* --ModelPath: Path to load the latest model from
 ..* --BasePath: Path to load images from 
