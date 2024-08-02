@@ -4,15 +4,6 @@
 
 My AutoPano is a project that explores panoramic image stitching through the integration of two distinct methodologies: Classical Computer Vision and Deep Learning. The primary objective is to seamlessly merge two or more images by leveraging repeated local features to create cohesive panoramas.
 
-## Authors
-- **Abhijeet Sanjay Rathi**
-  - M.S. Robotics, Worcester Polytechnic Institute
-  - Email: asrathi@wpi.edu
-
-- **Anuj Jagetia**
-  - M.S. Robotics, Worcester Polytechnic Institute
-  - Email: ajagetia@wpi.edu
-
 ## Abstract
 This project presents a comprehensive exploration of panoramic image stitching through two phases:
 
@@ -84,4 +75,3 @@ Both approaches aim to construct a homography matrix between two images by apply
 ## Contact
 For any inquiries, please contact:
 - Abhijeet Sanjay Rathi: asrathi@wpi.edu
-- Anuj Jagetia: ajagetia@wpi.edu
