@@ -2,8 +2,6 @@
 
 ## Overview
 
-My AutoPano is a project that explores panoramic image stitching through the integration of two distinct methodologies: Classical Computer Vision and Deep Learning. The primary objective is to seamlessly merge two or more images by leveraging repeated local features to create cohesive panoramas.
-
 | **Phase 1 Results Overview** |  |
 |----------|----------|
 | ![Alt1](Phase1/Code/Results/Set1/Panoroma/Final_Stitched_Image_20240130225409.png) | ![Alt2](Phase1/Code/Results/Set2/Panoroma/Stitched_Image_20240130225647.png) |
@@ -17,6 +15,9 @@ My AutoPano is a project that explores panoramic image stitching through the int
 | Unsupervised Model | Unsupervised Model  |
 | ![Alt3](Phase2/Code/Results/Supervised_test/Image59.png) | ![Alt4](Phase2/Code/Results/Supervised_test/Image70.png) |
 | Supervised Model | Supervised Model  |
+
+My AutoPano is a project that explores panoramic image stitching through the integration of two distinct methodologies: Classical Computer Vision and Deep Learning. The primary objective is to seamlessly merge two or more images by leveraging repeated local features to create cohesive panoramas.
+
 ## Abstract
 This project presents a comprehensive exploration of panoramic image stitching through two phases:
 
